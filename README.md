@@ -6,11 +6,11 @@ Frontend Developer with 4+ years of commercial experience building modern web ap
 
 ### 🛠️ Tech Stack & Tools
 
-- **Frontend:** HTML5 • CSS3/SCSS • JavaScript (ES6+) • Responsive Design • BEM
-- **Frameworks & Ecosystem:** React • Vue.js (Composition API, Pinia, Vue Router)
-- **CMS & E-commerce:** WordPress (Custom Themes, ACF, Gutenberg) • Shopify (Liquid) • WooCommerce
+- **Frontend:** HTML5 • CSS3/SCSS • JavaScript (ES6+) • Responsive Design
+- **Frameworks & Ecosystem:** React (React Hooks, Context API) • Vue.js (Composition API, Pinia, Vue Router)
+- **CMS & E-commerce:** WordPress (Custom Themes, ACF, Gutenberg) • WooCommerce • Shopify (Liquid)
 - **Performance & SEO:** Core Web Vitals • Google PageSpeed Optimization • Code Splitting • Asset Optimization
-- **Tools:** Git • GitHub • Vite • Webpack • NPM • VS Code
+- **Tools:** Git • GitHub • Vite • NPM
 
 ---
 
