@@ -1,8 +1,6 @@
 # Hi there, I'm Aleksandr! 👋
 
-I am a **Frontend & E-commerce Developer** with over 4 years of commercial experience in building modern web applications, high-performance websites, and e-commerce solutions. 
-
-I bridge the gap between classic CMS architectures and modern frontend frameworks, specializing in component-based development, performance optimization, and pixel-perfect layouts.
+Frontend Developer with 4+ years of commercial experience building modern web applications, high-performance websites and e-commerce solutions. Experienced in React, Vue.js, JavaScript, REST API integration and component-based architecture. Delivered production-ready SPA modules, business applications, Shopify stores and custom WordPress solutions with a strong focus on performance, scalability and clean, maintainable code.
 
 ---
 
