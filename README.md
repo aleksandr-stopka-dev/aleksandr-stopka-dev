@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Aleksandr! 👋
 
-<!--
-**aleksandr-stopka-dev/aleksandr-stopka-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Frontend & E-commerce Developer** with over 4 years of commercial experience in building modern web applications, high-performance websites, and e-commerce solutions. 
 
-Here are some ideas to get you started:
+I bridge the gap between classic CMS architectures and modern frontend frameworks, specializing in component-based development, performance optimization, and pixel-perfect layouts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Frontend:** HTML5 • CSS3/SCSS • JavaScript (ES6+) • Responsive Design • BEM
+- **Frameworks & Ecosystem:** React • Vue.js (Composition API, Pinia, Vue Router)
+- **CMS & E-commerce:** WordPress (Custom Themes, ACF, Gutenberg) • Shopify (Liquid) • WooCommerce
+- **Performance & SEO:** Core Web Vitals • Google PageSpeed Optimization • Code Splitting • Asset Optimization
+- **Tools:** Git • GitHub • Vite • Webpack • NPM • VS Code
+
+---
+
+### 🚀 Key Expertise & Experience
+
+- **Modern Frontend Apps:** Building responsive, fast-loading Single Page Applications (SPA) with React and Vue.js.
+- **CMS & Framework Hybridization:** Embedding Vue.js applications into custom WordPress themes as standalone frontend entries.
+- **E-commerce Solutions:** Developing and deeply customizing high-conversion online stores on Shopify and WooCommerce.
+- **Web Performance Engineering:** Speeding up commercial websites, removing CMS overhead, and hitting the Google PageSpeed green zone.
+
+---
+
+### 📫 Connect with Me
+
+- **Telegram:** [@aleksandr_stopka](https://t.me)
+- **Email:** aleksandr.stopka.dev@gmail.com
+- **Location:** Tbilisi, Georgia 🇬🇪 (Open for Worldwide Remote)
+
+⚡ *Focused on performance, scalability, and clean, maintainable code.*
