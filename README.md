@@ -25,7 +25,7 @@ Frontend Developer with 4+ years of commercial experience building modern web ap
 
 ### 📫 Connect with Me
 
-- **Telegram:** [@aleksandr_stopka](https://t.me)
+- **Telegram:** [@aleksandr_stopka](https://t.me/aleksandr_stopka)
 - **Email:** aleksandr.stopka.dev@gmail.com
 - **Location:** Tbilisi, Georgia 🇬🇪 (Open for Worldwide Remote)
 
