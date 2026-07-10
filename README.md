@@ -39,7 +39,7 @@ I care about two things: **speed** (pages that load in milliseconds, not seconds
 
 ## 📍 Let's talk
 
-Open to remote opportunities worldwide — currently based in Tbilisi, planning relocation soon.
+Open to remote opportunities worldwide — currently based in Tbilisi.
 
 - **Telegram:** [@aleksandr_stopka](https://t.me/aleksandr_stopka)
 - **Email:** aleksandr.stopka.dev@gmail.com
